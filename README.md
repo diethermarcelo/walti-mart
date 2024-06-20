@@ -1,5 +1,5 @@
 # walti-mart
-- A grocery e-commerce site
+- An online grocery store
 
 ## Technologies:
 - ASP.NET API
